@@ -1,0 +1,20 @@
+
+osquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”HâRBLOCKERZBUG
+tsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(º‰­‘úÿÿÿÿHãRBLOCKERZBUG
+wsquid:S3973M"GUse indentation to denote the code conditionally executed by this "if".(â‰—ÂHäRCRITICALZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HåRMINORZ
+CODE_SMELL
+qsquid:S2147I"DCombine this catch with the one at line 72, which has the same body.(Á¾‹àHæRMINORZ
+CODE_SMELL
+Zsquid:S4925"-Remove this "Class.forName()", it is useless.(¨ôäìHçRMAJORZ
+CODE_SMELL
+Rsquid:S2068" Remove this hard-coded password.(ì±¹šHèRBLOCKERZVULNERABILITY
+\squid:S00108H")Either remove or fill this block of code.( äÍÝûÿÿÿÿHéRMAJORZ
+CODE_SMELL
+Wsquid:S00108I")Either remove or fill this block of code.(Á¾‹àHêRMAJORZ
+CODE_SMELL
+\squid:S00108O")Either remove or fill this block of code.(âÜ¬îþÿÿÿÿHëRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìåÕ¤úÿÿÿÿHìRMAJORZ
+CODE_SMELL

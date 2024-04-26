@@ -1,0 +1,28 @@
+
+Rsquid:S2129" Remove this "Double" constructor(“´ÏÉøÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+Msquid:S2129
+" Remove this "Double" constructor(¸ãˆH¤RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+Rsquid:S2129" Remove this "Double" constructor(ïÀÃåÿÿÿÿÿH£RMAJORZ
+CODE_SMELL
+Rsquid:S2129" Remove this "Double" constructor(¶í¸ÍıÿÿÿÿH§RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÛ¯åH©RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÛ¯åH¦RMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿH¡RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÍ‘ÀH¨RMAJORZ
+CODE_SMELL
+ƒsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ø™ş´H RMAJORZ
+CODE_SMELL
+”squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÖôùşÿÿÿÿ8ÈØğ·Ğ0HìRMINORZ
+CODE_SMELL

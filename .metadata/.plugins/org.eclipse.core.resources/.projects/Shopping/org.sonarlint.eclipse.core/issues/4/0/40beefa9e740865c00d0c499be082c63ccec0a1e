@@ -1,0 +1,48 @@
+
+†squid:S1192M"QDefine a constant instead of duplicating this literal "Valid item name " 3 times.(¨ıÍùÿÿÿÿHÇRCRITICALZ
+CODE_SMELL
+{squid:S1192M"FDefine a constant instead of duplicating this literal "     " 4 times.(¨ıÍùÿÿÿÿHÈRCRITICALZ
+CODE_SMELL
+_squid:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÉRMINORZ
+CODE_SMELL
+osquid:S20950"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ä³òÅHÊRBLOCKERZBUG
+osquid:S2095'"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚„´ˆHËRBLOCKERZBUG
+psquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ì±¹šHÌRBLOCKERZBUG
+tsquid:S2095]"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(½û©ùÿÿÿÿHÍRBLOCKERZBUG
+osquid:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(“´ò‘HÎRBLOCKERZBUG
+osquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”HÏRBLOCKERZBUG
+osquid:S2583T"DChange this condition so that it does not always evaluate to "false"(ˆ²ÑÖøÿÿÿÿHĞRMAJORZBUG
+osquid:S2583^"DChange this condition so that it does not always evaluate to "false"(ˆ²ÑÖøÿÿÿÿHÑRMAJORZBUG
+Gsquid:S1220""Move this file to a named package.HÒRMINORZ
+CODE_SMELL
+fsquid:S2259E"@A "NullPointerException" could be thrown; "rr" is nullable here.(¢¬æÿHÓRMAJORZBUG
+rsquid:S2147r"ECombine this catch with the one at line 113, which has the same body.(Á¾‹àHÔRMINORZ
+CODE_SMELL
+Zsquid:S4925"-Remove this "Class.forName()", it is useless.(¨ôäìHÕRMAJORZ
+CODE_SMELL
+Rsquid:S2068" Remove this hard-coded password.(ì±¹šHÖRBLOCKERZVULNERABILITY
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÅ€§H×RMAJORZ
+CODE_SMELL
+Tsquid:S1905?"'Remove this unnecessary cast to "char".(ÚÔ˜£HØRMINORZ
+CODE_SMELL
+j
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ÕØÚ›ÿÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+j
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¨ıÍùÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+\squid:S00108q")Either remove or fill this block of code.( äÍİûÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+Wsquid:S00108r")Either remove or fill this block of code.(Á¾‹àHÜRMAJORZ
+CODE_SMELL
+Tsquid:S1481j"'Remove this unused "rs" local variable.(¶¥û›HİRMINORZ
+CODE_SMELL
+Vsquid:S1481")Remove this unused "rsmd" local variable.(ˆìïúHŞRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(¥ÏËÂÿÿÿÿÿHßRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(Ô‘ÚÌúÿÿÿÿHàRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿHáRMAJORZ
+CODE_SMELL

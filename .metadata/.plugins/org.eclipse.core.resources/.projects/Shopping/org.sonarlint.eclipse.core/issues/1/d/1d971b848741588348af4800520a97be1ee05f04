@@ -1,0 +1,28 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHRMAJORZ
+CODE_SMELL
+Msquid:S2129" Remove this "Double" constructor(¡Ñú©H‘RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï•±ÎùÿÿÿÿHRMAJORZ
+CODE_SMELL
+Rsquid:S2129" Remove this "Double" constructor(ğ®“¿úÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+Msquid:S2129" Remove this "Double" constructor(ÔİàHRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H‰RMINORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÖøEH’RMAJORZ
+CODE_SMELL
+Rsquid:S2129
+" Remove this "Double" constructor(øƒµÎşÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "s" local variable.(‘ùèH“RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÑçËHRMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿHŠRMINORZ
+CODE_SMELL

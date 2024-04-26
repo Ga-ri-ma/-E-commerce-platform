@@ -1,0 +1,57 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üİ¬¼H›RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(É˜¨şÿÿÿÿH—RMAJORZ
+CODE_SMELL
+Nsquid:S2129"!Remove this "Integer" constructor(Äš‰ÃH”RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÓÆŞHœRMAJORZ
+CODE_SMELL
+Nsquid:S2129"!Remove this "Integer" constructor(Ò®Ç™HRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÒû—ûÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿHRMINORZ
+CODE_SMELL
+Ssquid:S2129
+"!Remove this "Integer" constructor(÷ÖÔÑùÿÿÿÿH•RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(É˜¨şÿÿÿÿHRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ñ»»HŸRMAJORZ
+CODE_SMELL
+Ssquid:S2129"!Remove this "Integer" constructor(÷ÖÔÑùÿÿÿÿHšRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ñ¬şH™RMAJORZ
+CODE_SMELL
+Ssquid:S2129"!Remove this "Integer" constructor(á’ıÚşÿÿÿÿH–RMAJORZ
+CODE_SMELL
+®squid:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áşÿÿÿÿHRMAJORZ
+CODE_SMELL
+Msquid:S2129" Remove this "Double" constructor(ÕŸÅH˜RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª©ßşüÿÿÿÿH RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾†ŠüÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+’squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Æ•»éHRMAJORZ
+CODE_SMELL
+j
+squid:S106	"9Replace this use of System.out or System.err by a logger.(íÔÆ·şÿÿÿÿH’RMAJORZ
+CODE_SMELL
+Ssquid:S2129"!Remove this "Integer" constructor(š¯§èùÿÿÿÿH“RMAJORZ
+CODE_SMELL
+”squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÖôùşÿÿÿÿ8®Õô·Ğ0H­RMINORZ
+CODE_SMELL

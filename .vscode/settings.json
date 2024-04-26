@@ -1,0 +1,7 @@
+{
+    "git.terminalGitEditor": true,
+    "git.autofetch": true,
+    "git.enabled": true,
+    "git.decorations.enabled": true,
+    "explorer.excludeGitIgnore": true
+}

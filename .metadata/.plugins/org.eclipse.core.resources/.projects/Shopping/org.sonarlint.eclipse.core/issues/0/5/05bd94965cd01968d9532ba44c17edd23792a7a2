@@ -1,0 +1,37 @@
+
+}squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(œÃ¢øHıRMAJORZ
+CODE_SMELL
+wsquid:S1192"GDefine a constant instead of duplicating this literal "stack:" 3 times.(Î«é÷HûRCRITICALZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓùøHRMAJORZ
+CODE_SMELL
+}squid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢òõèHşRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î«é÷H‡RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÃ‘HˆRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î«é÷H…RMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿH†RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(®•¡’üÿÿÿÿH„RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î«é÷H‚RMAJORZ
+CODE_SMELL
+Ssquid:S2129"!Remove this "Integer" constructor(“À‚ÅûÿÿÿÿH€RMAJORZ
+CODE_SMELL
+}squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†´æ¥HÿRMAJORZ
+CODE_SMELL
+”squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÖôùşÿÿÿÿ8½ùì·Ğ0HÆRMINORZ
+CODE_SMELL
